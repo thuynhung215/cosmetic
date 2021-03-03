@@ -25,7 +25,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "pug": "^2.0.4",
+        "pug": "^3.0.1",
         "sweetalert2": "^8.15.1"
     }
 }
